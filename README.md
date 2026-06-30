@@ -18,7 +18,8 @@ A Python tool that evaluates password strength.
 
 ```bash
 pip install -r requirements.txt
-tinker ttk 
+pip install ttk/tkinter
+python -m tkinter
 ```
 
 ## Run
